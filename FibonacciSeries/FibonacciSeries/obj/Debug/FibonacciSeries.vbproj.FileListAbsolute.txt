@@ -1,0 +1,10 @@
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.Form1.resources
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.Resources.resources
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.vbproj.GenerateResource.Cache
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.xml
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.xml
+D:\Visual Studio\VB\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.pdb

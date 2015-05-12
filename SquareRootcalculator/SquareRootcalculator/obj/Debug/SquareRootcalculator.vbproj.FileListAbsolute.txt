@@ -1,0 +1,10 @@
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\bin\Debug\SquareRootcalculator.exe.config
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\bin\Debug\SquareRootcalculator.exe
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\bin\Debug\SquareRootcalculator.pdb
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\bin\Debug\SquareRootcalculator.xml
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\obj\Debug\SquareRootcalculator.Form1.resources
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\obj\Debug\SquareRootcalculator.Resources.resources
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\obj\Debug\SquareRootcalculator.vbproj.GenerateResource.Cache
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\obj\Debug\SquareRootcalculator.exe
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\obj\Debug\SquareRootcalculator.xml
+D:\Visual Studio\VB\SquareRootcalculator\SquareRootcalculator\obj\Debug\SquareRootcalculator.pdb
